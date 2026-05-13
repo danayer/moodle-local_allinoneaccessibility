@@ -16,7 +16,7 @@
 /**
  * All in One Accessibility AMD module.
  *
- * @copyright  2024 Rajesh Bhimani <developer3@skynettechnologies.com>
+ * @copyright  2024 Skynet Technologies USA LLC
  * @license     http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 

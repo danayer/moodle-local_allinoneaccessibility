@@ -1,160 +1,149 @@
-[Moodle free accessibility plugin](https://www.skynettechnologies.com/moodle-accessibility-widget) - All in One Accessibility® is a comprehensive accessibility enhancement tool designed for websites and applications powered by Moodle. This solution makes it easy to provide a more inclusive digital experience by adding an accessibility interface that supports users with diverse needs, including visual, cognitive, motor, and hearing impairments.
+[Бесплатный плагин доступности для Moodle](https://www.skynettechnologies.com/moodle-accessibility-widget) — All in One Accessibility® это комплексный инструмент повышения доступности для сайтов и приложений на Moodle. Решение помогает сделать цифровую среду более инклюзивной для пользователей с различными потребностями, включая зрительные, когнитивные, моторные и слуховые особенности.
 
-With a simple script installation on frontend - whether built in React, Next.js, Vue, Nuxt, Angular, or traditional HTML - the widget instantly activates a free suite of accessibility features. The Moodle free accessibility widget offers a practical, efficient way to help website align with WCAG 2.1, 2.2, ADA, EAA, Section 508, California Unruh, France RGAA, UK Equality Act, Spain UNE 138903:2012, Australian DDA, Israeli Standard 5568, Ontario AODA, Canada ACA, German BITV, Brazilian Inclusion Law (LBI 13.146/2015), JIS X 8341 (Japan), Italian Stanca Act, Indian RPwD Act, Switzerland DDA, and other [accessibility standards](https://www.skynettechnologies.com/accessibility-standards).
+После простой установки скрипта на фронтенд (React, Next.js, Vue, Nuxt, Angular или классический HTML) виджет сразу активирует бесплатный набор функций доступности. Плагин помогает соответствовать требованиям WCAG 2.1/2.2, ADA, EAA, Section 508 и другим [стандартам доступности](https://www.skynettechnologies.com/accessibility-standards).
 
-It eliminates the need for complex coding updates, allowing teams to strengthen accessibility quickly and consistently across all content served by Moodle. Whether you’re managing large-scale digital presence or launching a new project, this free accessibility plugin ensures Moodle powered website is more welcoming, compliant, and easier for everyone to interact with. This [free accessibility widget](https://www.skynettechnologies.com/free-website-accessibility-widget) quickly add essential accessibility features through a lightweight, easy to install solution that supports inclusive browsing and compliance efforts. With this free AI accessibility plugin, improve usability for visitors with visual, motor, cognitive, and other accessibility needs - helping to reach broader audience and enhance overall user experience.
+Решение снижает необходимость в сложных доработках кода и позволяет быстрее внедрять практики доступности на сайте Moodle.
 
-It reinforces brand’s professionalism by aligning site with modern expectations around accessibility and ethical web practices. It provides a straightforward way to strengthen website’s commitment to accessibility without complicating Moodle workflow. It helps organizations demonstrate responsibility and inclusivity, enhancing trust with users who expect accessible digital experiences. It integrates naturally into Moodle’s flexible framework, making it easy to adopt while preserving site’s custom design and structure.
+**Какие функции доступны в бесплатном виджете WCAG для Moodle?**
 
-**Which features are available at free WCAG accessibility Moodle widget?**
+- Автоопределение языка
+- Поддержка 190+ языков
+- Переход к навигации / контенту / футеру
+- Настройки отображения контента
+- Визуальные и цветовые настройки
+- Кастомизация виджета (цвет, размер, иконка, позиция)
+- Маска чтения
+- Заявление о доступности
 
-- Auto-detect language
-- Supports 190+ multi-languages
-- Skip to Navigation / Content / Footer
-- Content Adjustment Options
-- Visual & Color Adjustments
-- Widget customization including colors, size, icon, and position
-- Reading mask
-- Accessibility statement
+См. [руководство по функциям бесплатного виджета](https://www.skynettechnologies.com/sites/default/files/Free-Accessibility-Widget-Features-Guide.pdf).
 
-Explore the [free accessibility widget features guide](https://www.skynettechnologies.com/sites/default/files/Free-Accessibility-Widget-Features-Guide.pdf).
+**БЕЗОПАСНОСТЬ И КОНФИДЕНЦИАЛЬНОСТЬ**
 
-**SECURITY & PRIVACY NOTES**
+- Плагин следует практикам безопасности данных и приложений, включая ISO 9001:2015, ISO 27001:2013, GDPR, CCPA, COPPA, HIPAA и SOC 2 Type II.
+- Skynet Technologies USA LLC является организационным участником IAAP и W3C.
+- Сам модуль целенаправленно не хранит персональные данные; владелец сайта отвечает за проверку требований соответствия.
 
-- This Free Accessibility Moodle plugin follows several data and application security practices, including ISO 9001:2015 & ISO 27001:2013, GDPR, CCPA, COPPA, HIPAA,and SOC 2 Type II.
-- Skynet Technologies USA LLC is an organizational member of IAAP and of W3C.
-- No personal data is intentionally stored by the module itself. Site owners are responsible for reviewing their own compliance requirements.
+**ОГРАНИЧЕНИЯ**
 
-**LIMITATIONS**
+- Некоторые расширенные функции доступны только в коммерческой подписке.
 
-- Some advanced features require a commercial subscription.
+Подробнее: **[плагин доступности для Moodle](https://www.skynettechnologies.com/moodle-accessibility-widget)**.
 
-For more details, visit **[Moodle accessibility plugin.](https://www.skynettechnologies.com/moodle-accessibility-widget)**
+**FAQ**
 
-**FAQS**
+**Поддерживает ли бесплатный плагин Moodle многоязычные сайты?**
 
-**Does this free Moodle accessibility plugin support multilingual MOODLE stores?**
+Да, поддерживает более 190 языков.
 
-Yes. It supports 190+ languages.
+**Как перейти с бесплатной версии на платную?**
 
-**How can I upgrade from free to Paid Moodle accessibility widget for upgrading accessibility features?**
+Перейдите на платную подписку с расширенными функциями. Инструкция: [переход с free на paid](https://www.skynettechnologies.com/blog/upgrade-from-all-in-one-accessibility-free-widget-to-premium-version).
 
-Upgrade to Paid subscription with 70 plus advanced features and take website’s accessibility to the next level. Checkout the steps for upgrading [free to paid Moodle accessibility widget](https://www.skynettechnologies.com/blog/upgrade-from-all-in-one-accessibility-free-widget-to-premium-version)**.**
+**Какие функции доступны в платной версии?**
 
-**What additional features are available in the paid version of Moodle WCAG app?**
+Платная версия включает экранный диктор, голосовую навигацию, talk & type, виртуальную клавиатуру, профили доступности, Libras, словарь, расширенную мультиязычность и другие функции.
 
-The paid version of Moodle accessibility widget includes following features like screen reader, voice navigation, talk & type, virtual keyboard, accessibility profiles tailored for different users with disabilities group, Libras (Brazilian sign language), dictionary search, multi-language support (140+ languages), and many more. Pricing starts from $25 / month. Explore more information about [accessibility widget](https://www.skynettechnologies.com/all-in-one-accessibility) and buy now.
+**Поддерживаемые языки (190+)**
 
-**Supported Languages (190+ Languages)**
+English (USA), English (UK), English (Australian), English (Canadian), English (South Africa), Español, Español (Mexicano), Deutsch, عربى, Português, Português (Brazil), 日本語, Français, Italiano, Polski, Pусский, 中文, 中文 (Traditional), עִברִית, Magyar, Slovenčina, Suomenkieli, Türkçe, Ελληνικά, Latinus, Български, Català, Čeština, Dansk, Nederlands, हिंदी, Bahasa Indonesia, 한국인, Lietuvių, Bahasa Melayu, Norsk, Română, Slovenščina, Svenska, แบบไทย, Українська, Việt Nam, বাঙালি, සිංහල, አማርኛ, Hmoob, မြန်မာ, Eesti keel, latviešu, Cрпски, Hrvatski, ქართული, ʻŌlelo Hawaiʻi, Cymraeg, Cebuano, Samoa, Kreyòl ayisyen, Føroyskt, Crnogorski, Azerbaijani, Euskara, Tagalog, Galego, Norsk Bokmål, فارسی, ਪੰਜਾਬੀ, shqiptare, Հայերեն, অসমীয়া, Aymara, Bamanankan, беларускі, bosanski, Corsu, ދިވެހި, Esperanto, Eʋegbe, Frisian, guarani, ગુજરાતી, Hausa, íslenskur, Igbo, Gaeilge, basa jawa, ಕನ್ನಡ, қазақ, ខ្មែរ, Kinyarwanda, Kurdî, Кыргызча, ພາສາລາວ, Lingala, Luganda, lëtzebuergesch, македонски, Malagasy, മലയാളം, Malti, Maori, मराठी, Монгол, नेपाली, Sea, ଓଡିଆ, Afaan Oromo, پښتو, Runasimi, संस्कृत, Gàidhlig na h-Alba, Sesotho, Shona, سنڌي, Soomaali, basa Sunda, kiswahili, тоҷикӣ, தமிழ், Татар, తెలుగు, ትግሪኛ, Tsonga, Türkmenler, Ride, اردو, ئۇيغۇر, o'zbek, isiXhosa, יידיש, Yoruba, Zulu, भोजपुरी, डोगरी, कोंकणी, Kurdî, Krio, मैथिली, Meiteilon, Mizo tawng, Sepedi, Ilocano, دری.
 
-English (USA), English (UK), English (Australian), English (Canadian), English (South Africa), Español, Español (Mexicano), Deutsch, عربى, Português, Português (Brazil), 日本語, Français, Italiano, Polski, Pусский, 中文, 中文 (Traditional), עִברִית, Magyar, Slovenčina, Suomenkieli, Türkçe, Ελληνικά, Latinus, Български, Català, Čeština, Dansk, Nederlands, हिंदी, Bahasa Indonesia, 한국인, Lietuvių, Bahasa Melayu, Norsk, Română, Slovenščina, Svenska, แบบไทย, Українська, Việt Nam, বাঙালি, සිංහල, አማርኛ, Hmoob, မြန်မာ, Eesti keel, latviešu, Cрпски, Hrvatski, ქართული, ʻŌlelo Hawaiʻi, Cymraeg, Cebuano, Samoa, Kreyòl ayisyen, Føroyskt, Crnogorski, Azerbaijani, Euskara, Tagalog, Galego, NorskBokmål, فارسی, ਪੰਜਾਬੀ, shqiptare, Hայերեն, অসমীয়া, Aymara, Bamanankan, беларускі, bosanski, Corsu, ދިވެހި, Esperanto, Eʋegbe, Frisian, guarani, ગુજરાતી, Hausa, íslenskur, Igbo, Gaeilge, basa jawa, ಕನ್ನಡ, қазақ, ខ្មែរ, Kinyarwanda, Kurdî, Кыргызча, ພາສາລາວ, Lingala, Luganda, lëtzebuergesch, македонски, Malagasy, മലയാളം, Malti, Maori, मराठी, Монгол, नेपाली, Sea, ଓଡିଆ, Afaan Oromoo, پښتو, Runasimi, संस्कृत, Gàidhlig na h-Alba, Sesotho, Shona, سنڌي, Soomaali, basa Sunda, kiswahili, тоҷикӣ, தமிழ், Татар, తెలుగు, ትግሪኛ, Tsonga, Türkmenler, Ride, اردو, ئۇيغۇر, o'zbek, isiXhosa, יידיש, Yoruba, Zulu, भोजपुरी, डोगरी, कोंकणी, Kurdî, Krio, मैथिली, Meiteilon, Mizo tawng, Sepedi, Ilocano, دری
+**Установка через ZIP-файл**
 
-**Installation Steps via uploaded ZIP file**
-1. Log in to your Moodle site as an admin and go to _Site administration >
-   Plugins > Install plugins_.
-2. Upload the ZIP file with the plugin code. You should only be prompted to add
-   extra details if your plugin type is not automatically detected.
-3. Check the plugin validation report and finish the installation.
+1. Войдите в Moodle как администратор и откройте _Site administration > Plugins > Install plugins_.
+2. Загрузите ZIP-архив с кодом плагина.
+3. Проверьте отчёт валидации и завершите установку.
 
-Afterwards, log in to your Moodle site as an admin and go to _Site administration >
-Notifications_ to complete the installation.
+После этого перейдите в _Site administration > Notifications_, чтобы завершить установку.
 
-Alternatively, you can run
+Или выполните:
 
     $ php admin/cli/upgrade.php
 
-to complete the installation from the command line.
+Подробная инструкция: [установка Moodle WCAG ADA accessibility widget](https://www.skynettechnologies.com/blog/moodle-ada-and-wcag-accessibility-widget-installation).
 
-• Check out our [**Moodle WCAG ADA accessibility widget installation steps**](https://www.skynettechnologies.com/blog/moodle-ada-and-wcag-accessibility-widget-installation)**.**
-
-**Visit the MOODLE Accessibility Improvements Demo to see how does it perform with improved accessibility features:**
+**Демо улучшений доступности Moodle:**
 
 [![All in One Accessibility](https://img.youtube.com/vi/X70XtvGyvSs/0.jpg)](https://youtu.be/X70XtvGyvSs)
 
-**CORS Policy Configuration**
+**Настройка CORS**
 
-To avoid CORS policy issues, ensure the following URLs are allowed in your website. These URLs should be added to your CORS configuration or trusted domains list.
+Чтобы избежать ошибок CORS, разрешите следующие URL в конфигурации сервера.
 
-| **Domain**                         | **Description**                              | **Usage**                        |
-|------------------------------------|----------------------------------------------|----------------------------------|
-| `https://*.skynettechnologies.com` | Skynet Technologies (Global Domain)          | API access and resources         |
-| `https://*.skynettechnologies.us`  | Skynet Technologies (US Domain)              | API access and resources         |
-| `https://*.googleapis.com`         | Google APIs                                  | Services like Fonts, Translation |
-| `https://*.gstatic.com`            | Fonts APIs                                   | Custom Fonts                     |
-| `https://vlibras.gov.br`           | VLibras - Brazilian Sign Language Service    | Sign Language                    |
-| `https://ipapi.co/json`            | IP Location                                  | Get IP based location            |
+| **Домен**                         | **Описание**                                | **Назначение**                   |
+|-----------------------------------|----------------------------------------------|----------------------------------|
+| `https://*.skynettechnologies.com` | Skynet Technologies (глобальный домен)       | Доступ к API и ресурсам          |
+| `https://*.skynettechnologies.us`  | Skynet Technologies (US домен)               | Доступ к API и ресурсам          |
+| `https://*.googleapis.com`         | Google APIs                                  | Шрифты, перевод и другие сервисы |
+| `https://*.gstatic.com`            | Fonts APIs                                   | Пользовательские шрифты          |
+| `https://vlibras.gov.br`           | VLibras (бразильский язык жестов)            | Язык жестов                      |
+| `https://ipapi.co/json`            | Геолокация по IP                             | Определение местоположения       |
 
-**Instructions**
+**Инструкции**
 
-1. Update your server's CORS configuration to include these URLs.
-2. Ensure wildcard subdomains (*) are supported where necessary.
-3. Verify the application functionality by testing requests to these domains.
-4. If issues persist, consult the documentation for CORS configuration guidance.
+1. Добавьте эти URL в CORS-конфигурацию сервера.
+2. Убедитесь, что поддерживаются wildcard-поддомены (*), где это требуется.
+3. Проверьте работу приложения запросами к этим доменам.
+4. Если проблема остаётся, проверьте документацию по CORS.
 
-**Documentation**
+**Документация**
 
 - **[Moodle All in One Accessibility](https://www.skynettechnologies.com/moodle-accessibility-widget)**
-- **[Moodle All in One Accessibility Extension installation steps blog](https://www.skynettechnologies.com/blog/moodle-ada-and-wcag-accessibility-widget-installation)**
-- **[All in One Accessibility - Features Guide](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)**
+- **[Установка расширения Moodle All in One Accessibility](https://www.skynettechnologies.com/blog/moodle-ada-and-wcag-accessibility-widget-installation)**
+- **[All in One Accessibility — список возможностей](https://www.skynettechnologies.com/sites/default/files/accessibility-widget-features-list.pdf)**
 
-**Submit a Support Request**
+**Отправить запрос в поддержку**
 
-Please visit our [**support page**](https://www.skynettechnologies.com/report-accessibility-problem) and fill out the form. Our team will get back to you as soon as possible.
+Перейдите на [**страницу поддержки**](https://www.skynettechnologies.com/report-accessibility-problem) и заполните форму.
 
-**Send Us an Email**
+**Написать на email**
 
-Alternatively, you can send an email to our support team: [**hello@skynettechnologies.com**](mailto:hello@skynettechnologies.com)
+Также можно написать в поддержку: [**hello@skynettechnologies.com**](mailto:hello@skynettechnologies.com)
 
-**Accessibility Paid Add-on Services**
+**Платные дополнительные сервисы доступности**
 
-**MOODLE manual accessibility audit**
+**Ручной аудит доступности Moodle**
 
-- Enhance inclusivity and user experience by evaluating MOODLE website’s accessibility by [web accessibility consultant](https://www.skynettechnologies.com/web-accessibility-consultant).
-- WCAG 2.0 / WCAG 2.1 / WCAG 2.2 Level AA conformance testing
-- Automated, semi-automated testing
-- Manual testing
-- Simple before-after UI/UX recommendations on how to fix the issues
-- Comprehensive audit report
+- Оценка доступности сайта Moodle специалистами по веб-доступности.
+- Проверка соответствия WCAG 2.0 / 2.1 / 2.2 Level AA.
+- Автоматизированное, полуавтоматизированное и ручное тестирование.
+- Рекомендации по улучшению UI/UX.
+- Подробный отчёт по аудиту.
 
-**MOODLE site manual accessibility remediation**
+**Ручная ремедиация доступности сайта Moodle**
 
-Enhance MOODLE ecommerce store accessibility and inclusivity with our manual accessibility remediation add-on. This service includes fixing accessibility issues and thorough remediation of website manually. Our experts ensure accessibility with WCAG standards, improve user experience for those with disabilities, and provide a detailed report on the improvements made.
+Сервис включает исправление найденных проблем доступности и подробный отчёт по выполненным улучшениям.
 
-[**PDF/Document Accessibility Remediation**](https://www.skynettechnologies.com/pdf-accessibility-remediation)
+[**Ремедиация PDF/документов**](https://www.skynettechnologies.com/pdf-accessibility-remediation)
 
-The PDF / Document Remediation provides a list of inaccessible PDFs and remediated PDFs from where you can request PDF remediation service.
+Сервис предоставляет перечень недоступных PDF и исправленных документов для заказа услуг ремедиации.
 
-**VPAT Report/Accessibility Conformance Report (ACR)**
+**VPAT Report / Accessibility Conformance Report (ACR)**
 
-The Voluntary Product Accessibility Template (VPAT), also known as an ACR (Accessibility Conformance Report) starts with an audit and provides current details for an accessible website, application, or any other digital assets.
+VPAT (ACR) начинается с аудита и предоставляет актуальную информацию о соответствии доступности сайта, приложения и других цифровых активов.
 
-**Accessibility MOODLE Widget Paid Add-ons**
+**Платные add-ons для виджета доступности Moodle**
 
 [**White Label Accessibility**](https://www.skynettechnologies.com/all-in-one-accessibility/addons)
 
-Remove the Skynet Technologies logo as well as all of the footer links, popups, report a problem link and more for full white label control.
+Позволяет убрать логотип Skynet Technologies, ссылки в футере, всплывающие элементы, ссылку «report a problem» и другие элементы брендинга.
 
-[**Instant live site translations for MOODLE stores**](https://www.skynettechnologies.com/all-in-one-accessibility/addons)
+[**Мгновенный перевод сайта Moodle**](https://www.skynettechnologies.com/all-in-one-accessibility/addons)
 
-Translate MOODLE store into over 140 languages instantly to enhance accessibility for non-native speakers, individuals with language acquisition difficulties, and those with learning disabilities.
+Мгновенный перевод сайта более чем на 140 языков.
 
-[**Modify Accessibility Menu for MOODLE Store**](https://www.skynettechnologies.com/all-in-one-accessibility/addons)
+[**Изменение меню доступности для Moodle**](https://www.skynettechnologies.com/all-in-one-accessibility/addons)
 
-Build and fine-tune widget with the Modify Menu option. Reorder, remove and restructure the widget buttons to fit users’ specific accessibility needs.
+Можно изменять порядок, удалять и перестраивать кнопки виджета под нужды пользователей.
 
-**MOODLE Accessibility Partnership Opportunities**
+**Партнёрские возможности по доступности Moodle**
 
-[**MOODLE accessibility agencies partnership**](https://www.skynettechnologies.com/agency-partners)
+[**Партнёрство для агентств**](https://www.skynettechnologies.com/agency-partners)
 
-Partner with us as an agency to provide comprehensive MOODLE ADA, EAA, WCAG accessibility solutions to clients. Get access to exclusive resources, training, and support to implement and manage accessibility features effectively.
+[**Партнёрская (affiliate) программа**](https://www.skynettechnologies.com/affiliate-partner)
 
-[**MOODLE accessibility affiliate partnership**](https://www.skynettechnologies.com/affiliate-partner)
+Подробнее: [**партнёрская программа по доступности Moodle**](https://www.skynettechnologies.com/partner-program)
 
-Sign up for our affiliate program and earn commissions by promoting accessibility MOODLE module. Share our widget with your network and help businesses improve their website accessibility while generating revenue.
-
-For more details, explore [**MOODLE accessibility partnership opportunities**](https://www.skynettechnologies.com/partner-program)
-
-**Screenshots**
+**Скриншоты**
 
 ![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-1-free.jpg?v=4)
 ![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-2-free.jpg?v=4)
@@ -164,14 +153,6 @@ For more details, explore [**MOODLE accessibility partnership opportunities
 ![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-6-free.jpg?v=4)
 ![App Screenshot](https://www.skynettechnologies.com/sites/default/files/screenshot-7-free.jpg?v=4)
 
-**Credits**
+**Лицензия**
 
-This addon is developed and maintained by [website accessibility company](https://www.skynettechnologies.com/) - Skynet Technologies USA LLC
-
-**Current Maintainers**
-
-- [**Skynet Technologies USA LLC**](https://github.com/skynettechnologies)
-
-**License**
-
-All in One Accessibility is licensed under the GNU General Public License - see the [LICENSE](LICENSE) file for details
+All in One Accessibility распространяется по GNU General Public License. Подробности — в файле [LICENSE](LICENSE).
